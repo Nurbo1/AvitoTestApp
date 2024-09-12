@@ -1,5 +1,11 @@
 # AvitoTestApp
 
+## Скриншоты
+![IMG_9994](https://github.com/user-attachments/assets/79cf2a07-0659-4aed-9f50-70ed8314d60c)
+![IMG_9995](https://github.com/user-attachments/assets/c9a2d2f2-512c-44cd-a25d-b2ad20bb70f3)
+![IMG_9996](https://github.com/user-attachments/assets/85a5b544-8ffe-409d-b6c1-49b100cfbaff)
+![IMG_9997](https://github.com/user-attachments/assets/43e1d962-74a6-4e88-a3b8-1d3bf1fa4967)
+
 AvitoTestApp — это iOS-приложение, которое позволяет пользователям искать изображения, просматривать последние запросы поиска и предварительный просмотр изображений. Оно включает в себя функционал для поиска изображений через API Unsplash, отображения результатов поиска в коллекции и предварительного просмотра выбранных изображений.
 
 ## Функционал

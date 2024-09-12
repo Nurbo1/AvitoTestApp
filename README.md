@@ -1,8 +1,8 @@
 
 https://github.com/user-attachments/assets/a09a6b3d-9cc5-4d6f-a3ab-5adccac04497
-# AvitoTestApp
+# UnsplashImagesApp
 
-AvitoTestApp — это iOS-приложение, которое позволяет пользователям искать изображения, просматривать последние запросы поиска и предварительный просмотр изображений. Оно включает в себя функционал для поиска изображений через API Unsplash, отображения результатов поиска в коллекции и предварительного просмотра выбранных изображений.
+UnsplashImagesApp — это iOS-приложение, которое позволяет пользователям искать изображения, просматривать последние запросы поиска и предварительный просмотр изображений. Оно включает в себя функционал для поиска изображений через API Unsplash, отображения результатов поиска в коллекции и предварительного просмотра выбранных изображений.
 
 
 ## Скриншоты
@@ -51,5 +51,5 @@ https://github.com/user-attachments/assets/b896bff7-c1c4-4c00-aff6-5a420a6ba854
 
 1. **Клонирование репозитория:**
    ```bash
-   git clone https://github.com/yourusername/AvitoTestApp.git
+   git clone https://github.com/yourusername/UnsplashImagesApp.git
    cd AvitoTestApp
